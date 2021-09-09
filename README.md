@@ -19,5 +19,4 @@
 * Swap error. Check transaction to see details
 
 
-
-
+P.S To use BSC testnet, edit main.py file and comment lines from 1 to 34 and de-comment lines from 39 to the end of file. (To comment add # at start of the line).
