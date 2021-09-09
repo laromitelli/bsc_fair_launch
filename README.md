@@ -4,7 +4,7 @@
 
 * Download a recent python version (>= 3.6)
 * Create a virtual environment: python3 -m venv “/path/to/new/virtual/environment”
-* Activate you virtual environment: “/path/to/new/virtual/environment/bin/activate.ps1” or source “/path/to/new/virtual/environment/bin/activate" on mac/linux
+* Activate you virtual environment: “/path/to/new/virtual/environment/Script/activate.ps1” or source “/path/to/new/virtual/environment/bin/activate" on mac/linux
 * Install Web3 library. Execute: pip install web3
 * Clone this branch to a local path “/project/path/bsc_fair_launch”
 
